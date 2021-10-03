@@ -1,0 +1,1 @@
+# HIVE_BASIC_STUDY
